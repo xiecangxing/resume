@@ -1,0 +1,28 @@
+.title {
+    font-family: serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    background-color: red;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+}
+.intro {
+    font-style: normal;
+    font-size: 24px;
+    float: left;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    line-height: 100px;
+    text-align: center;
+    clear: both;
+    background-color: gray;
+}
+p{
+    float: left;
+    margin-left: 10px;
+    line-height: 20px;;
+}
